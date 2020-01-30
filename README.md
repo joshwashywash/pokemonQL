@@ -2,13 +2,13 @@
 
 **To run follow these steps...**
 
-1. install the dependencies for both server and client
+1. install the dependencies
 
 ```
 npm install;
 ```
 
-2. from the project root directory run the server alongside the client
+2. run locally with
 
 ```
 npm run start
